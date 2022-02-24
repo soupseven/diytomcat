@@ -1,0 +1,246 @@
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\a
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\a has finished in 170 ms
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\j2ee
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\j2ee has finished in 9 ms
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\ROOT
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\ROOT has finished in 1 ms
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/diytomcat/b
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/diytomcat/b has finished in 1 ms
+02 24, 2022 09:00:52 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\a
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\a has finished in 153 ms
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\j2ee
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\j2ee has finished in 6 ms
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\ROOT
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\ROOT has finished in 2 ms
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/diytomcat/b
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/diytomcat/b has finished in 2 ms
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 30 ms
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_251\jre
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_251-b08
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 24, 2022 09:01:53 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 7 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\a
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\a has finished in 147 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\j2ee
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\j2ee has finished in 7 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\tq_project\diytomcat\webapps\ROOT
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\tq_project\diytomcat\webapps\ROOT has finished in 2 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/diytomcat/b
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/diytomcat/b has finished in 2 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 30 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Program Files\Java\jdk1.8.0_251\jre
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_251-b08
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 24, 2022 09:20:06 上午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+02 24, 2022 09:57:34 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@2defb2aa 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 09:57:34 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 09:57:34 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:57:34 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 12 ms
+02 24, 2022 09:57:34 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@58b85af3 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 10 ms
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@210fae5f 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 9 ms
+02 24, 2022 09:58:05 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 09:59:15 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@17244c08 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 09:59:15 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 09:59:15 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:59:15 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 13 ms
+02 24, 2022 09:59:15 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 09:59:26 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@333df76 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 09:59:26 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 09:59:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 09:59:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 9 ms
+02 24, 2022 09:59:26 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@36a034f6 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 10 ms
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@584654ee 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 8 ms
+02 24, 2022 10:01:06 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:01:10 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@1921d651 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:01:10 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:01:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:01:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 8 ms
+02 24, 2022 10:01:10 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:01:11 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@63f7e82b 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:01:11 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:01:11 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:01:11 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 7 ms
+02 24, 2022 10:01:11 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:01:44 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@a55d119 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:01:44 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:01:44 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:01:44 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 11 ms
+02 24, 2022 10:01:44 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:01:45 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@762173c2 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:01:45 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:01:45 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:01:45 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 7 ms
+02 24, 2022 10:01:45 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+02 24, 2022 10:23:16 上午 cn.how2j.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.how2j.diytomcat.watcher.ContextFileChangeWatcher@d862498 检测到了Web应用下的重要文件变化 HHH.class 
+02 24, 2022 10:23:16 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+02 24, 2022 10:23:16 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/tq_project/javaweb/web
+02 24, 2022 10:23:16 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/tq_project/javaweb/web has finished in 9 ms
+02 24, 2022 10:23:16 上午 cn.how2j.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
